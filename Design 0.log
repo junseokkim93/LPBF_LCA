@@ -1,0 +1,276 @@
+INFO:root:Checking if ecoinvent and biosphere exists...
+
+INFO:root:Ecoinvent ecoinvent 3.8_cutoff_ecoSpold02 exists.
+
+INFO:root:Checking if ecoinvent and biosphere exists...
+
+INFO:root:Checking if ecoinvent and biosphere exists...
+
+INFO:root:2022_06_24-02_44_19_PM
+INFO:root:Checking if ecoinvent and biosphere exists...
+
+INFO:root:Ecoinvent does not exists. Loading ecoinvent ecoinvent 3.8_cutoff_ecoSpold02...
+
+INFO:root:2022_06_24-02_58_42_PM
+INFO:root:Checking if ecoinvent and biosphere exists...
+
+INFO:root:Ecoinvent does not exists. Loading ecoinvent ecoinvent 3.8_cutoff_ecoSpold02...
+
+INFO:root:2022_06_24-03_04_11_PM
+INFO:root:Checking if biosphere and ecoinvent exist...
+
+INFO:root:biosphere3 exists.
+
+INFO:root:Ecoinvent does not exists. Loading ecoinvent ecoinvent 3.8_cutoff_ecoSpold02...
+
+INFO:root:2022_06_24-04_59_28_PM
+INFO:root:Checking if biosphere and ecoinvent exist...
+
+INFO:root:2022_06_24-05_35_58_PM
+INFO:root:Checking if biosphere and ecoinvent exist...
+
+INFO:root:2022_06_24-05_57_00_PM
+INFO:root:Checking if biosphere and ecoinvent exist...
+
+INFO:root:biosphere3 exists.
+
+INFO:root:Ecoinvent does not exists. Importing ecoinvent ecoinvent 3.8_cutoff_ecoSpold02...
+
+INFO:root:2022_06_24-05_57_34_PM
+INFO:root:Checking if biosphere and ecoinvent exist...
+
+INFO:root:biosphere3 does not exists. Importing biosphere3...
+
+INFO:root:2022_06_24-06_06_50_PM
+INFO:root:Checking if biosphere and ecoinvent exist...
+
+INFO:root:biosphere3 does not exists. Importing biosphere3...
+
+INFO:root:biosphere3 exists.
+
+INFO:root:Ecoinvent does not exists. Importing ecoinvent ecoinvent 3.8_cutoff_ecoSpold02...
+
+INFO:root:2022_06_24-06_11_08_PM
+INFO:root:Checking if biosphere and ecoinvent exist...
+
+INFO:root:biosphere3 exists.
+
+INFO:root:Ecoinvent does not exists. Importing ecoinvent ecoinvent 3.8_cutoff_ecoSpold02...
+
+INFO:root:2022_06_24-06_11_08_PM
+INFO:root:Checking if biosphere and ecoinvent exist...
+
+INFO:root:biosphere3 exists.
+
+INFO:root:Ecoinvent does not exists. Importing ecoinvent ecoinvent 3.8_cutoff_ecoSpold02...
+
+INFO:root:2022_06_24-06_11_08_PM
+INFO:root:Checking if biosphere and ecoinvent exist...
+
+INFO:root:biosphere3 exists.
+
+INFO:root:Ecoinvent does not exists. Importing ecoinvent ecoinvent 3.8_cutoff_ecoSpold02...
+
+INFO:root:2022_06_24-06_11_08_PM
+INFO:root:Checking if biosphere and ecoinvent exist...
+
+INFO:root:biosphere3 exists.
+
+INFO:root:Ecoinvent does not exists. Importing ecoinvent ecoinvent 3.8_cutoff_ecoSpold02...
+
+INFO:root:2022_06_24-06_11_16_PM
+INFO:root:Checking if biosphere and ecoinvent exist...
+
+INFO:root:biosphere3 exists.
+
+INFO:root:Ecoinvent does not exists. Importing ecoinvent ecoinvent 3.8_cutoff_ecoSpold02...
+
+INFO:root:2022_06_24-06_11_16_PM
+INFO:root:Checking if biosphere and ecoinvent exist...
+
+INFO:root:biosphere3 exists.
+
+INFO:root:Ecoinvent does not exists. Importing ecoinvent ecoinvent 3.8_cutoff_ecoSpold02...
+
+INFO:root:2022_06_24-06_11_16_PM
+INFO:root:Checking if biosphere and ecoinvent exist...
+
+INFO:root:biosphere3 exists.
+
+INFO:root:Ecoinvent does not exists. Importing ecoinvent ecoinvent 3.8_cutoff_ecoSpold02...
+
+INFO:root:2022_06_24-06_11_16_PM
+INFO:root:Checking if biosphere and ecoinvent exist...
+
+INFO:root:biosphere3 exists.
+
+INFO:root:Ecoinvent does not exists. Importing ecoinvent ecoinvent 3.8_cutoff_ecoSpold02...
+
+INFO:root:2022_06_24-06_11_24_PM
+INFO:root:Checking if biosphere and ecoinvent exist...
+
+INFO:root:biosphere3 exists.
+
+INFO:root:Ecoinvent does not exists. Importing ecoinvent ecoinvent 3.8_cutoff_ecoSpold02...
+
+INFO:root:2022_06_24-06_11_25_PM
+INFO:root:Checking if biosphere and ecoinvent exist...
+
+INFO:root:biosphere3 exists.
+
+INFO:root:Ecoinvent does not exists. Importing ecoinvent ecoinvent 3.8_cutoff_ecoSpold02...
+
+INFO:root:2022_06_24-06_11_25_PM
+INFO:root:Checking if biosphere and ecoinvent exist...
+
+INFO:root:biosphere3 exists.
+
+INFO:root:Ecoinvent does not exists. Importing ecoinvent ecoinvent 3.8_cutoff_ecoSpold02...
+
+INFO:root:2022_06_24-06_11_25_PM
+INFO:root:Checking if biosphere and ecoinvent exist...
+
+INFO:root:biosphere3 exists.
+
+INFO:root:Ecoinvent does not exists. Importing ecoinvent ecoinvent 3.8_cutoff_ecoSpold02...
+
+INFO:root:2022_06_24-06_11_32_PM
+INFO:root:Checking if biosphere and ecoinvent exist...
+
+INFO:root:biosphere3 exists.
+
+INFO:root:Ecoinvent does not exists. Importing ecoinvent ecoinvent 3.8_cutoff_ecoSpold02...
+
+INFO:root:2022_06_24-06_11_32_PM
+INFO:root:Checking if biosphere and ecoinvent exist...
+
+INFO:root:biosphere3 exists.
+
+INFO:root:Ecoinvent does not exists. Importing ecoinvent ecoinvent 3.8_cutoff_ecoSpold02...
+
+INFO:root:2022_06_24-06_11_32_PM
+INFO:root:Checking if biosphere and ecoinvent exist...
+
+INFO:root:biosphere3 exists.
+
+INFO:root:Ecoinvent does not exists. Importing ecoinvent ecoinvent 3.8_cutoff_ecoSpold02...
+
+INFO:root:2022_06_24-06_11_32_PM
+INFO:root:Checking if biosphere and ecoinvent exist...
+
+INFO:root:biosphere3 exists.
+
+INFO:root:Ecoinvent does not exists. Importing ecoinvent ecoinvent 3.8_cutoff_ecoSpold02...
+
+INFO:root:2022_06_24-06_11_40_PM
+INFO:root:Checking if biosphere and ecoinvent exist...
+
+INFO:root:biosphere3 exists.
+
+INFO:root:Ecoinvent does not exists. Importing ecoinvent ecoinvent 3.8_cutoff_ecoSpold02...
+
+INFO:root:2022_06_24-06_11_40_PM
+INFO:root:Checking if biosphere and ecoinvent exist...
+
+INFO:root:biosphere3 exists.
+
+INFO:root:Ecoinvent does not exists. Importing ecoinvent ecoinvent 3.8_cutoff_ecoSpold02...
+
+INFO:root:2022_06_24-06_11_40_PM
+INFO:root:Checking if biosphere and ecoinvent exist...
+
+INFO:root:biosphere3 exists.
+
+INFO:root:Ecoinvent does not exists. Importing ecoinvent ecoinvent 3.8_cutoff_ecoSpold02...
+
+INFO:root:2022_06_24-06_11_40_PM
+INFO:root:Checking if biosphere and ecoinvent exist...
+
+INFO:root:biosphere3 exists.
+
+INFO:root:Ecoinvent does not exists. Importing ecoinvent ecoinvent 3.8_cutoff_ecoSpold02...
+
+INFO:root:2022_06_24-06_11_48_PM
+INFO:root:Checking if biosphere and ecoinvent exist...
+
+INFO:root:biosphere3 exists.
+
+INFO:root:Ecoinvent does not exists. Importing ecoinvent ecoinvent 3.8_cutoff_ecoSpold02...
+
+INFO:root:2022_06_24-06_11_48_PM
+INFO:root:Checking if biosphere and ecoinvent exist...
+
+INFO:root:biosphere3 exists.
+
+INFO:root:Ecoinvent does not exists. Importing ecoinvent ecoinvent 3.8_cutoff_ecoSpold02...
+
+INFO:root:2022_06_24-06_11_48_PM
+INFO:root:Checking if biosphere and ecoinvent exist...
+
+INFO:root:biosphere3 exists.
+
+INFO:root:Ecoinvent does not exists. Importing ecoinvent ecoinvent 3.8_cutoff_ecoSpold02...
+
+INFO:root:2022_06_24-06_11_48_PM
+INFO:root:Checking if biosphere and ecoinvent exist...
+
+INFO:root:biosphere3 exists.
+
+INFO:root:Ecoinvent does not exists. Importing ecoinvent ecoinvent 3.8_cutoff_ecoSpold02...
+
+INFO:root:2022_06_24-06_11_57_PM
+INFO:root:Checking if biosphere and ecoinvent exist...
+
+INFO:root:biosphere3 exists.
+
+INFO:root:Ecoinvent does not exists. Importing ecoinvent ecoinvent 3.8_cutoff_ecoSpold02...
+
+INFO:root:2022_06_24-06_11_57_PM
+INFO:root:Checking if biosphere and ecoinvent exist...
+
+INFO:root:biosphere3 exists.
+
+INFO:root:Ecoinvent does not exists. Importing ecoinvent ecoinvent 3.8_cutoff_ecoSpold02...
+
+INFO:root:2022_06_24-06_11_57_PM
+INFO:root:Checking if biosphere and ecoinvent exist...
+
+INFO:root:biosphere3 exists.
+
+INFO:root:Ecoinvent does not exists. Importing ecoinvent ecoinvent 3.8_cutoff_ecoSpold02...
+
+INFO:root:2022_06_24-06_11_57_PM
+INFO:root:Checking if biosphere and ecoinvent exist...
+
+INFO:root:biosphere3 exists.
+
+INFO:root:Ecoinvent does not exists. Importing ecoinvent ecoinvent 3.8_cutoff_ecoSpold02...
+
+INFO:root:2022_06_24-06_12_06_PM
+INFO:root:Checking if biosphere and ecoinvent exist...
+
+INFO:root:biosphere3 exists.
+
+INFO:root:Ecoinvent does not exists. Importing ecoinvent ecoinvent 3.8_cutoff_ecoSpold02...
+
+INFO:root:2022_06_24-06_12_06_PM
+INFO:root:Checking if biosphere and ecoinvent exist...
+
+INFO:root:biosphere3 exists.
+
+INFO:root:Ecoinvent does not exists. Importing ecoinvent ecoinvent 3.8_cutoff_ecoSpold02...
+
+INFO:root:2022_06_24-06_12_06_PM
+INFO:root:Checking if biosphere and ecoinvent exist...
+
+INFO:root:biosphere3 exists.
+
+INFO:root:Ecoinvent does not exists. Importing ecoinvent ecoinvent 3.8_cutoff_ecoSpold02...
+
+INFO:root:2022_06_24-06_12_06_PM
+INFO:root:Checking if biosphere and ecoinvent exist...
+
+INFO:root:biosphere3 exists.
+
+INFO:root:Ecoinvent does not exists. Importing ecoinvent ecoinvent 3.8_cutoff_ecoSpold02...
+
